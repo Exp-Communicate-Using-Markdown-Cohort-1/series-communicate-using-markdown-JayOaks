@@ -11,3 +11,9 @@ They are;
 # This is an image of Yaktocat.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Below is an example of a JavaScript code block in Markdown
+
+``` javascript
+var myVar = "Hello, world!";
+```
