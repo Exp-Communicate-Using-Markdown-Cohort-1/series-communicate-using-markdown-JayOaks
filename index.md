@@ -7,3 +7,7 @@ They are;
 5. ### h3
 6. ## h2
 7. # h1
+
+# This is an image of Yaktocat.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
